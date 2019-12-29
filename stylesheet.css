@@ -1,0 +1,96 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+}
+
+.nav-bar a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    display: inline;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.footer a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    display: inline;
+}
+
+ul {
+    list-style: none;
+    margin: 15px 15px 15px 15px;
+    padding: 5px;
+}
+
+li {
+    display: inline;
+}
+
+.list1 {
+    float: left;
+}
+
+.list2 {
+    float: right;
+}
+
+.list3 {
+    float: left;
+}
+
+.list4 {
+    float: right;
+}
+
+.sign-in {
+    background-color: blue;
+    color: white;
+}
+
+.logo {
+    text-align: center;
+    position: absolute;
+    left 0;
+    width: 100%;
+    top: 30%;
+}
+
+.search {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 50%;
+}
+
+.searchButtons {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 60%;
+}
+
+#button1 {
+    background-color: lightgrey;
+    color: black;
+    width: 150px;
+    height: 40px;
+}
+
+#button2 {
+    background-color: lightgray;
+    color: black;
+    width: 150px;
+    height: 40px;
+}
